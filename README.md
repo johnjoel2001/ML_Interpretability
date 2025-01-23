@@ -34,6 +34,11 @@
   - Classification Report
 - GAMs outperformed linear models in terms of flexibility and interpretability for non-linear features
 
+**Recommendation**: 
+1) Use **Logistic Regression** for linear features which is very interpretable and yields a good accuracy. 
+2) If non linear features are found to be critical use **GAM** by making some adjustments.
+
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
